@@ -1,0 +1,12 @@
+com/baohaixu/util/Secured.class
+com/baohaixu/controller/UserController.class
+com/baohaixu/util/AuthenticationFilter.class
+com/baohaixu/util/AuthenticationFilter$1.class
+com/baohaixu/model/JWT.class
+com/baohaixu/model/User.class
+com/baohaixu/controller/HelloResource.class
+com/baohaixu/util/Password.class
+com/baohaixu/controller/RestApplication.class
+com/baohaixu/controller/ProductController.class
+com/baohaixu/model/LoginUser.class
+com/baohaixu/model/Product.class
